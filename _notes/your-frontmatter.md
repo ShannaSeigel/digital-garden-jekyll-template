@@ -10,3 +10,6 @@ additional options --
 
 permalink: 
 image: 
+
+see the reference here 
+https://jekyllrb.com/docs/front-matter/
