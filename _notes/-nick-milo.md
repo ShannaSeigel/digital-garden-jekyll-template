@@ -1,3 +1,7 @@
+---
+title: Nick
+---
+
 <small>← [Home](../page-1)</small> / <small>← [LYT-course-moc-2020](../zk-lyt-system/mocs/LYT-course-moc-2020.md)</small>
 # Nick Milo / Linking Your Thinking
 

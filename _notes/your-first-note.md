@@ -7,10 +7,10 @@ Let's add some links
 
 - [-nick-milo](-nick-milo)
 - [commonmark-markdown](commonmark-markdown)
-- [about](../_pages/about.md){: .internal-link}
+- [about](../_pages/about.md)
 - [cats](cats.md)
-- [program-babelmark-for-markdown](program-babelmark-for-markdown.md){: .internal-link}
-- [videos-on-how-to-zk](videos-on-how-to-zk.md){: .internal-link}
+- [program-babelmark-for-markdown](program-babelmark-for-markdown.md)
+- [videos-on-how-to-zk](videos-on-how-to-zk.md)
 
 
 ### Welcome!

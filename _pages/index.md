@@ -19,9 +19,9 @@ or my own index [index-trial no .md](index-trial)
 [[../_notes/-markdown]]
 
 - [-nick-milo](../_notes/-nick-milo)
-- [consistency](../_notes/consistency.md){: .internal-link}
+- [consistency](../_notes/consistency.md)
 - [-zettelkasten](../_notes/-zettelkasten.md){: .internal-link}
-- [videos-on-how-to-zk](../_notes/videos-on-how-to-zk.md){: .internal-link}
+- [videos-on-how-to-zk](../_notes/videos-on-how-to-zk.md)
 - [page-1](page-1.md){: .internal-link}
 - [program-babelmark-for-markdown](../_notes/program-babelmark-for-markdown.md)
 - [hello-note](../_notes/hello-note.md){: .internal-link}
