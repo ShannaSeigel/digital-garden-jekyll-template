@@ -1,5 +1,5 @@
 ---
-title: Test 2: Format Bugaloo
+title: Test 2 - Format Bugaloo
 author: Shanna
 layout: note
 ---
