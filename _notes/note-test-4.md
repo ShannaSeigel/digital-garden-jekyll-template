@@ -1,7 +1,6 @@
 ---
 title: Test Page #4
 author: Shanna
-layout: note
 ---
 
 # Headerrrrrrrr 11111!1!
