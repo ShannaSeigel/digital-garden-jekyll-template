@@ -1,3 +1,7 @@
+---
+title: Zettelkasten MOC
+---
+
 <small>← [Home](../page-1.md)</small>
 
 # Zettelkasten

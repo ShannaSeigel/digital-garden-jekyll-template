@@ -1,3 +1,7 @@
+---
+title: Markdown MOC
+---
+
 <small>← [Home](../page-1.md)</small>
 
 # Markdown

@@ -1,3 +1,7 @@
+---
+title: ZK.de Q&A
+---
+
 <small>← [-zettelkasten](-zettelkasten)</small>
 
 # zettelkasten.de Q&A Sessions
