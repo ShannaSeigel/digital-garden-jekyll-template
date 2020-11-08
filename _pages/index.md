@@ -5,32 +5,20 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome! 👋
 
-<p style="padding: 3em 1em; background: pink; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+Big, big thank you to [Mixime Vaillancourt (@vaillancourtmax)](https://twitter.com/vaillancourtmax) for very patiently helping me set up his digital garden template. Find the template [on GitHub](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
-Shanna is going to add some stuff here. Shanna's repo for this site: <a href="https://github.com/ShannaSeigel/digital-garden-jekyll-template">https://github.com/ShannaSeigel/digital-garden-jekyll-template</a>
+I've wanted to expand on my first digital garden tests with a way to see related pages and a graph view. So I'm excited to explore this set up a bit more!
 
-Like this link [cats](../_notes/cats.md)
-or my own index [index-trial no .md](index-trial)
+Here are some test links to get started:
+- [Just saying hello](../_notes/hello-note.md)
+- [note-test-1](../_notes/note-test-1.md)
+- [note-test-2](../_notes/note-test-2.md)
+- [note-test-3](../_notes/note-test-3.md)
+- [note-test-4](../_notes/note-test-4.md)
+- [about](about.md)
 
-[[../_notes/-markdown]]
-
-- [-nick-milo](../_notes/-nick-milo)
-- [consistency](../_notes/consistency.md)
-- [-zettelkasten](../_notes/-zettelkasten.md){: .internal-link}
-- [videos-on-how-to-zk](../_notes/videos-on-how-to-zk.md)
-- [page-1](page-1.md){: .internal-link}
-- [program-babelmark-for-markdown](../_notes/program-babelmark-for-markdown.md)
-- [hello-note](../_notes/hello-note.md){: .internal-link}
-
-try it
-
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). Say hi! 👋
 
 <style>
   .wrapper {
