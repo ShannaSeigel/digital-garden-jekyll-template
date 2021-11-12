@@ -6,4 +6,6 @@ permalink: /about
 
 *This is an about page.*
 
-Feel free to tell the world about what you love! 😍
+## Shanna is putting text here. For Reasons™️
+
+/fin
