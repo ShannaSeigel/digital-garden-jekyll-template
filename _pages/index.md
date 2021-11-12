@@ -5,17 +5,17 @@ id: home
 permalink: /
 ---
 
-# Welcome! From Shanners. Now it's 2021 yo.
+# 👋 Hey, I'm Shanna
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration. 
+<p style="padding: 2em 1em; background: #f5f7ff; border-radius: 12px;">
+I'm trying out a digital garden once again as I try to get myself organized and figure out my PKM. Welcome! I'll try to update this page to be more useful in the future. 
 </p>
 
-Or some other bullshit with rambling about [[stuff ta learn]].
+Lately I've had the desire to share my [[Garden Scraps]] or little bits of notes. I always want what I put into the world to be perfect and polished, which means nothing ever turns up. Instead I'll just see what happens when I follow where my brain goes and what I learn along the way.
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+<br>
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). 👋
+*Like the look? I'm testing out the digital garden template from [Max Vaillancourt](https://twitter.com/vaillancourtmax)*
 
 <style>
   .wrapper {
