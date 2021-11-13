@@ -1,6 +1,8 @@
 
 
-I always have dozens of ideas floating around and they just wind up as hundreds of open tabs in my broswer. Like for real, 450 tabs on laptop, >100 on my phone or tablet... it's too much. Sometimes I think I want to create new notes, new knowledge but really the idea is so early that it's just a list of links. Maybe I can save them here as "open tabs" or "garden scraps."
+I always have dozens of ideas floating around and they just wind up as hundreds of open tabs in my browser. Like for real, 450 tabs on laptop, >100 on my phone or tablet... it's too much. Sometimes I think I want to create new notes, new knowledge but really the idea is so early that it's just a list of links. Maybe I can save them here as "open tabs" or "garden scraps."
+
+![](https://i.ytimg.com/vi/mJfyGXumK9s/maxresdefault.jpg)
 
 Why not just use bookmarks? Why not indeed. I have no good reason really other than I think this might be more aesthetically pleasing. I've tried so many bookmarking platforms, built-in options, drafts, sending stuff to my email or task manager. It's a fucking mess. And I end up researching the same things over and over because it's not consistent.
 
