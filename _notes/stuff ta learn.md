@@ -1,4 +1,8 @@
-
+---
+layout: note
+title: learnin's
+author: Shanna Seigel
+---
 
 
 Nov-12-2021 Learning website stuffs once again
@@ -13,3 +17,5 @@ so im starting over once again, looked briefly at some digital garden things and
 ## ~ ~ *Always be Strugglin'* ~ ~
 
 
+hey what do i need in frontmatter other than title? and layout type? author?
+probably should work on that
