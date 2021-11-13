@@ -8,7 +8,7 @@ Index of stuff on my mind. Not really a note, more than a bookmark, it's just so
 
 # 🪴
 
-- ADHD
+- [[learning about ADHD]]
 - digital gardening
 - making a website from obsidian to github and more
 	- [[some next steps]]
