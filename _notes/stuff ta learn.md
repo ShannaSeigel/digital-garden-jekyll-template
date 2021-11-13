@@ -18,4 +18,5 @@ so im starting over once again, looked briefly at some digital garden things and
 
 
 hey what do i need in frontmatter other than title? and layout type? author?
-probably should work on that
+probably should work on that. see [[front-matter-template]]
+
