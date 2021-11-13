@@ -11,7 +11,9 @@ Index of stuff on my mind. Not really a note, more than a bookmark, it's just so
 - ADHD
 - digital gardening
 - making a website from obsidian to github and more
+	- [[some next steps]]
 - getting organized / task management / personal data tracking
 
 
-Created Nov-12-2021
+
+Created November 12, 2021

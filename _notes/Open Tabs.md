@@ -1,4 +1,4 @@
-
+[[stuff ta learn]] links for no reason
 
 I always have dozens of ideas floating around and they just wind up as hundreds of open tabs in my browser. Like for real, 450 tabs on laptop, >100 on my phone or tablet... it's too much. Sometimes I think I want to create new notes, new knowledge but really the idea is so early that it's just a list of links. Maybe I can save them here as "open tabs" or "garden scraps."
 
