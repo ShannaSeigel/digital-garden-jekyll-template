@@ -1,7 +1,7 @@
 ---
+layout: note
 title: 
 author: Shanna
-layout: note
 ---
 
 This note is for frontmatter reference
