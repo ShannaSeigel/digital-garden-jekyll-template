@@ -11,8 +11,8 @@ linkys, why don't some of them work for me? these are pages that used to work?
 - [[stuff ta learn]]
 - [[your-frontmatter-text]]
 - [[Open Tabs]]
-- [[note-test-3]]
+- [[note test 3]]
 
-
+no dashes apparently
 
 I've added some text here and I'm testing my breadcrumb links. I was adding these to all my notes but I'm wondering if it will be redundant with the digital garden template. 
