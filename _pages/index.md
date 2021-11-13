@@ -16,6 +16,10 @@ Lately I've had the desire to share my [[Garden Scraps]] or little bits of notes
 
 *Like the look? I'm testing out the digital garden template from [Max Vaillancourt](https://twitter.com/vaillancourtmax).*
 
+
+<p>Checkout the graph of all my notes</p>
+{% include notes_graph.html %}
+
 <style>
   .wrapper {
     max-width: 46em;
