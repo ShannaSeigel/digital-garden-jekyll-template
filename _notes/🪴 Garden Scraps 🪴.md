@@ -1,3 +1,9 @@
+---
+layout: note
+title: 🪴 Garden Scraps 🪴
+author: Shanna Seigel
+---
+
 Index of stuff on my mind. Not really a note, more than a bookmark, it's just some links and a few comments. A garden scrap if you will.
 
 # 🪴
