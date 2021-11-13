@@ -14,11 +14,10 @@ I'm trying out a digital garden once again as I try to get myself organized and 
 Lately I've had the desire to share my [[Garden Scraps]] or little bits of notes. I always want what I put into the world to be perfect and polished, which means nothing ever turns up. Instead I'll just see what happens when I follow where my brain goes and what I learn along the way.
 <br>
 
+Each note includes the graph of the full website, which you can also see [[graph|here]].
+<br>
 *Like the look? I'm testing out the digital garden template from [Max Vaillancourt](https://twitter.com/vaillancourtmax).*
 
-
-<p>Checkout the graph of all my notes</p>
-{% include notes_graph.html %}
 
 <style>
   .wrapper {
