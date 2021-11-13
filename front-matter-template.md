@@ -2,7 +2,6 @@
 layout: note
 title: 
 author: Shanna Seigel
-date: DD-MM-YYYY
 ---
 
 
@@ -20,7 +19,7 @@ permalink: /<name>
 ```
 
 possible info to include:
-- date - make shortcut in right format?
+- date - look for right format?
 - blog?
 - class or category or tags?
 
