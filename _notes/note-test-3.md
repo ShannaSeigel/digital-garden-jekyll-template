@@ -1,7 +1,7 @@
 ---
+layout: note
 title: Third Test, You're Out!
 author: Shanna
-layout: note
 ---
 
 ## Third Test but Header 2
