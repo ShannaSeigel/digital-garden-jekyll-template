@@ -16,4 +16,4 @@ Index of stuff on my mind. Not really a note, more than a bookmark, it's just so
 - getting organized / task management / personal data tracking
 - [[markdown note test]], test formatting
 
-Created November 12, 2021
+<small>Created November 12, 2021</small>
