@@ -19,7 +19,7 @@ Each note includes the graph of the full website, which you can also see [[graph
 
 <hr>
 <small>
-😎 *Like the look? <br> I'm using the digital garden template from [Max Vaillancourt.](https://github.com/maximevaillancourt/digital-garden-jekyll-template)*
+😎 *Like the look? I'm using the digital garden template from [Max Vaillancourt.](https://github.com/maximevaillancourt/digital-garden-jekyll-template)*
 </small>
 
 <style>
