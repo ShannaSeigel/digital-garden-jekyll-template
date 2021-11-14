@@ -3,6 +3,8 @@ November 12, 2021
 ### ideas for online notes
 - [ ] consider favicon
 - [ ] look over Max V files in my github repo folder
+	- [ ] main page has a blog feed, so how does that get added?
+		- [ ] https://maximevaillancourt.com/
 - [ ] see old repo here for inspo: https://github.com/ShannaSeigel/digital-brain
 	- [ ] cname
 	- [ ] anything i want to edit like 404, other pages?

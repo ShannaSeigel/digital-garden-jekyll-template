@@ -77,7 +77,16 @@ $$
   > have you heard this quote?[^1]
 
 
-
+Try some nesting
+- like this
+	- also this
+	- over here
+	- maybe
+- but what about?
+	- this?
+		- this?
+			- that?
+- hello!
 
 
 [link reference]:askjdhfqksdjhf
