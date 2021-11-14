@@ -1,5 +1,12 @@
 November 12, 2021
 
 ### ideas for online notes
-- consider favicon
-- look over Max V files in my github repo folder
+- [ ] consider favicon
+- [ ] look over Max V files in my github repo folder
+- [ ] see old repo here for inspo: https://github.com/ShannaSeigel/digital-brain
+	- [ ] cname
+	- [ ] anything i want to edit like 404, other pages?
+- [ ] another page attempt with some notes i was testing: https://github.com/ShannaSeigel/slipbox
+- [ ] maybe contact people that starred my other repos with new one? otherwise might delete or make something private that someone used for a reference
+- [ ] review tags on other projects and copy over
+- [ ] consider template for notes vault to auto include basic frontmatter
