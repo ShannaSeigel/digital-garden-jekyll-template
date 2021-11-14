@@ -13,3 +13,6 @@ image:
 
 see the reference here 
 https://jekyllrb.com/docs/front-matter/
+
+also for page dates:
+<small>Created </small>
