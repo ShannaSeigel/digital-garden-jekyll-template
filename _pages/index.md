@@ -17,6 +17,8 @@ Lately I've had the desire to share my [[🪴 Garden Scraps 🪴|garden scraps]]
 Each note includes the graph of the full website, which you can also see [[graph|here]].
 <br>
 
+<hr>
+
 😎 *Like the look? <br> I'm using the digital garden template from [Max Vaillancourt.](https://github.com/maximevaillancourt/digital-garden-jekyll-template)*
 
 
