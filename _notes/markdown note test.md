@@ -5,7 +5,7 @@ layout: note
 ---
 
 # Second Test
-In this second file let's try some formatting. But don't forget some links like [[note-test 1]] or [[note test 3]]. [[stuff ta learn]]
+In this second file let's try some formatting. But don't forget some links like [[note-test 1]] or [[note test 3]]. [[stuff ta learn]]. Real link: [[🪴 Garden Scraps 🪴]]
 
 # Header 1
 
