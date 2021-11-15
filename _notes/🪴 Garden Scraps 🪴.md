@@ -15,7 +15,7 @@ Index of stuff on my mind. Not really a note, more than a bookmark, it's just so
 	- seems every fall, for the last few years, I end up looking at personal website options. Maybe this time will be more successful? 😅
 - getting organized / task management / personal data tracking
 - [[markdown note test]], test formatting
-- test 123 with new notes [[2021-11-15-1237 test]]
+- test 123 with new notes [[2021-11-15-1241-|testing]]
 
 
 
