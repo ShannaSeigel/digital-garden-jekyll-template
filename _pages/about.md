@@ -8,7 +8,7 @@ permalink: /about
 ## Shanna is putting text here. For Reasons™️
 
 
-I'll say more some other time. For now (Nov. 2021), I'll say this:
+I'll add more some other time. For now (Nov. 2021), I'll say this:
 
 
 - I'm a mid-30s, American womxn
@@ -18,6 +18,7 @@ I'll say more some other time. For now (Nov. 2021), I'll say this:
 
 
 - I've had various digital spaces over the years, the first in **1999**, when I was but a wee babe and thought I would be a world-famous teen author (as in, I would be a teenager with published works). It was called "Ya Think!?" under my made up company "Imagine Ink." Yup. 😅
+	- (I should lower the cringe level, I actually ran that site as a platform for young writers until I got to college and I got lots of submissions over those years)
 
 
 
