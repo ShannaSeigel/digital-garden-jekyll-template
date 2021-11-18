@@ -11,7 +11,7 @@ Index of stuff on my mind. Not really a note, more than a bookmark, it's just so
 - [[Learning about ADHD]] because I've wondered for a few years if I have it.
 - digital gardening
 - making a website from obsidian to github and more
-	- [[online garden next steps]]
+	- [[🤔 online garden next steps]]
 	- seems every fall, for the last few years, I end up looking at personal website options. Maybe this time will be more successful? 😅
 - getting organized / task management / personal data tracking
 - [[markdown note test]], test formatting

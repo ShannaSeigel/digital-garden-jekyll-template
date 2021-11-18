@@ -1,6 +1,12 @@
-November 12, 2021
+---
+layout: note
+title: Garden To-do's
+author: Shanna Seigel
+---
 
-### ideas for online notes site
+
+
+### Nov. ideas for online notes site
 - consider favicon
 - look over Max V files in my github repo folder
 	- main page has a blog feed, so how does that get added?
