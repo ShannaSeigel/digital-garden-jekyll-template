@@ -16,3 +16,4 @@ _includes/notes_graph.json
 
 # Individual files
 _note*.md
+your-frontmatter-text*
