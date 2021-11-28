@@ -10,8 +10,9 @@ The Eisenhower Matrix helps break down tasks by urgency and importance. You end 
 *several diagrams included example tasks but i dont care to list them*
 -->
 
-Ooof, this table looks like shit
-- [ ] #tk LOOK UP how to add formatting to markdown table or swap to HTML #_energy/medium_ #_noun/browser_ #_time/15min_  🔽
+☹️ Ooof, this table looks like shit. Note to fix it [[Misc Tasks]]
+
+
 
 ## Summary
 
