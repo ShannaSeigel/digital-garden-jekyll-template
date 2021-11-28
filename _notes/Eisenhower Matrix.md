@@ -6,7 +6,12 @@ author: Shanna Seigel
 
 The Eisenhower Matrix helps break down tasks by urgency and importance. You end up with a box that has four cross sections, but how people fill in those cross sections varies.
 
+<!--
 *several diagrams included example tasks but i dont care to list them*
+-->
+
+Ooof, this table looks like shit
+- [ ] #tk LOOK UP how to add formatting to markdown table or swap to HTML #_energy/medium_ #_noun/browser_ #_time/15min_  🔽
 
 ## Summary
 
