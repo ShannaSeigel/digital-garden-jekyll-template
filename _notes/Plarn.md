@@ -7,12 +7,8 @@ author: Shanna Seigel
 
 ## **"Plarn"** is "yarn" made from plastic bags, like grocery shopping bags. 
 
-![[../assets/images/liz-lemon-v-bag-victory.png]]
 
-![](../assets/images/liz-lemon-v-bag.gif)
-
-
-
+![](../assets/images/liz-lemon-v-bag.gif)![](../assets/images/liz-lemon-v-bag-victory.png)
 
 
 
