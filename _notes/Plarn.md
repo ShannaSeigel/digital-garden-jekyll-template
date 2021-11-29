@@ -7,7 +7,9 @@ author: Shanna Seigel
 
 ## **"Plarn"** is "yarn" made from plastic bags, like grocery shopping bags. 
 
-![[liz-lemon-v-bag.gif]]![[liz-lemon-v-bag-victory.png]]
+![[liz-lemon-v-bag-victory.png]]
+
+
 
 ### Backstory
 I can't remember when I first came across this but I'm guessing it's been more than five years. I started looking into it again because I have so. freaking. many. plastic bags now. After living in places that banned plastic bags years ago, it's weird to see them again here in Memphis. Also, with the pandemic, I can't always use my own reusable bags and grocery delivery here comes in all plastic! I don't even think I've seen paper bags anywhere??
