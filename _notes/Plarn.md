@@ -22,7 +22,7 @@ YouTube showed me some people call the strips tied together "plarn roving," whic
 
 
 
-[^1]:https://www.youtube.com/watch?v=gQwTcizA7Oo
+[^1]:(https://www.youtube.com/watch?v=gQwTcizA7Oo)
 
 
 <small>Created November 29, 2021</small>
