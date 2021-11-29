@@ -27,7 +27,7 @@ Bags are HDPE, [high-density polyethylene](https://www.wikiwand.com/en/High-dens
 Stell @YouTube [shows how she cuts bags](https://www.youtube.com/watch?v=DvPqi5NMi8E) to get a continuous strip of plastic. Another video [shows how she connects new strands](https://www.youtube.com/watch?v=15ukf6SaE_M ) by trapping the new strand in the tail of the current piece. She mentions holding two or more strands together for bulky yarn weights instead of cutting thicker strips because the thin plastic will just compress down.
 
 #### Useful Tutorials
-[GemFox @YouTube](https://www.youtube.com/watch?v=2sYI-WPuyD0) shows connecting loops method with helpful info, such as yardage and weight. In her case, 1 bag is apx 8.75yrd, 4.4g of "fiber." They also use a regular ==ball winder== to cake up a long stretch of bags, nice! Tote in video is estimated to use 100 bags.
+[GemFox @YouTube](https://www.youtube.com/watch?v=2sYI-WPuyD0) shows connecting loops method with helpful info, such as yardage and weight. In her case, 1 bag is apx 8.75yrd, 4.4g of "fiber." They also use a *regular ball winder* to cake up a long stretch of bags, nice! Tote in video is estimated to use 100 bags.
 
 Stell showed how to use tunisian crochet (TC) to [create mittens with a plastic exterior and fiber interior](https://www.youtube.com/watch?v=OjQe_QCHktQ&list=PL21u7wvjyG5vdkuIOe1nQPiSiSs8gwih4). Says snow won't stick, seems like a neat idea. I love TC but I don't live anywhere with snow right now.
 
@@ -36,6 +36,6 @@ Stell showed how to use tunisian crochet (TC) to [create mittens with a plastic 
 
 YouTube showed me some people call the strips tied together "plarn roving," which I have feelings about. But whatever, you spin your plastic into cording or whatever you want, you crafty folks. 😅
 
-[[Plarn Bag]] project planning note
+[[Plan_Make Plarn Bag]] project planning note
 
 <small>Created November 29, 2021</small>

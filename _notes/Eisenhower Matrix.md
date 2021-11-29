@@ -10,7 +10,7 @@ The Eisenhower Matrix helps break down tasks by urgency and importance. You end 
 *several diagrams included example tasks but i dont care to list them*
 -->
 
-☹️ Ooof, this table looks like shit. Note to fix it [[Misc Tasks]]
+☹️ Ooof, this table looks like shit. Note to fix it [[🤷🏻‍♀️ Misc Tasks]]
 
 
 
