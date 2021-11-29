@@ -10,6 +10,8 @@ author: Shanna Seigel
 ![[liz-lemon-v-bag-victory.png]]
 
 
+![liz lemon on Tumblr](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.gUbkKMNL-RFiXwd2FNB5GAHaHa%26pid%3DApi&f=1)
+
 
 ### Backstory
 I can't remember when I first came across this but I'm guessing it's been more than five years. I started looking into it again because I have so. freaking. many. plastic bags now. After living in places that banned plastic bags years ago, it's weird to see them again here in Memphis. Also, with the pandemic, I can't always use my own reusable bags and grocery delivery here comes in all plastic! I don't even think I've seen paper bags anywhere??
