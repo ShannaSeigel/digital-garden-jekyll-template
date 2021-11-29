@@ -5,7 +5,9 @@ author: Shanna Seigel
 ---
 
 
-**"Plarn"** is "yarn" made from plastic bags, like grocery shopping bags. 
+## **"Plarn"** is "yarn" made from plastic bags, like grocery shopping bags. 
+
+![[liz-lemon-v-bag.gif]]![[liz-lemon-v-bag-victory.png]]
 
 ### Backstory
 I can't remember when I first came across this but I'm guessing it's been more than five years. I started looking into it again because I have so. freaking. many. plastic bags now. After living in places that banned plastic bags years ago, it's weird to see them again here in Memphis. Also, with the pandemic, I can't always use my own reusable bags and grocery delivery here comes in all plastic! I don't even think I've seen paper bags anywhere??
@@ -13,8 +15,8 @@ I can't remember when I first came across this but I'm guessing it's been more t
 ### Methods
 Different people have different methods creating plarn but all involve cutting a plastic bag into one or more thin strips and connecting those together to make a long thread of plastic.
 
-Connect loops of plastic method:
-2 minute YT video on this method by needlepointers[^1]
+#### Connect loops of plastic
+2 minute YT video on this method by [needlepointers](https://www.youtube.com/watch?v=gQwTcizA7Oo)
 
 
 
@@ -22,7 +24,6 @@ YouTube showed me some people call the strips tied together "plarn roving," whic
 
 
 
-[^1]:(https://www.youtube.com/watch?v=gQwTcizA7Oo)
 
 
 <small>Created November 29, 2021</small>
